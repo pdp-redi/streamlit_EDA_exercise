@@ -1,2 +1,2 @@
-# stramlit_EDA_-exercise
+# streamlit_EDA_exercise
 Streamlit
